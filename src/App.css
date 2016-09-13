@@ -1,0 +1,99 @@
+body{
+	background-color:#292929;
+}
+
+.todoAppHeader{  
+  font-size: xx-large;
+  font-family: ''Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+  color: green;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  background-image:url(head.png);
+ background-size: 100%,100%;
+  
+ 
+}
+
+.todoItem{
+  margin-top: 5px;
+  border-width: 20;
+  border-style: solid;
+  width: 260px;
+  height: auto;
+  font-size: 16pt;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  border-color:  "red";
+  background-color: "white";
+  border:none;
+  word-wrap:break-word;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+
+}
+
+.backspring1{
+	height:79px;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(spring.png);
+	background-repeat:repeat-x;
+	background-size: 15%,100%;
+	background-position:center;
+   
+  }
+
+.backspring{
+	height:auto;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#CF6;
+
+	
+	
+	}
+.todoItemButton{
+ float: right;
+ 
+  background-color: #fff;
+}
+
+
+.todoItemButton.Button{
+background-color:#000000;
+
+}
+
+
+.hhh{
+float:right;
+  height: 25px;
+  width: 25px;
+  background-image:url(cancel-512.png);
+  background-size: 100%,100%;
+}
+
+.hey{
+	height:600px;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+  background-image:url(head.png);
+  background-size: 100%,100%;
+  background-color:#FFF;
+  
+}
+
+.bottom{
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	width:300px;
+	height:60px;
+	background-color:#FFF;
+	border-color:#000;
+	border-style:solid;}
